@@ -1,0 +1,22 @@
+{
+  "name": "envision-plugin-shellrouter",
+  "version": "1.0.0",
+  "description": "ENVISION shellrouter",
+  "cordova": {
+    "id": "envision-plugin-shellrouter",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+
+  },
+  "keywords": [
+    "cordova",
+    "shellrouter",
+    "cordova-android",
+    "cordova-ios",
+  ],
+  "license": "Apache 2.0"
+}

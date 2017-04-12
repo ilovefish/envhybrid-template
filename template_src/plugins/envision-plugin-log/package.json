@@ -1,0 +1,22 @@
+{
+  "name": "envision-plugin-log",
+  "version": "1.0.0",
+  "description": "ENVISION Logging Plugin",
+  "cordova": {
+    "id": "envision-plugin-log",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+
+  },
+  "keywords": [
+    "cordova",
+    "logging",
+    "cordova-ios",
+    "cordova-android",
+  ],
+  "license": "Apache 2.0"
+}

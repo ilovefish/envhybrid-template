@@ -1,0 +1,46 @@
+{
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "envision-plugin-shareddata": {
+        "source": {
+            "type": "git",
+            "url": "http://gitlab.envisioncn.com/map-framework/envision-plugin-shareddata.git",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "envision-plugin-shellrouter": {
+        "source": {
+            "type": "git",
+            "url": "http://gitlab.envisioncn.com/map-framework/envision-plugin-shellrouter.git",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "envision-plugin-envcontext": {
+        "source": {
+            "type": "git",
+            "url": "http://gitlab.envisioncn.com/map-framework/envision-plugin-envcontext.git",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "envision-plugin-log": {
+        "source": {
+            "type": "git",
+            "url": "http://gitlab.envisioncn.com/map-framework/envision-plugin-log.git",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}

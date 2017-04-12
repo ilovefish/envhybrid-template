@@ -1,0 +1,27 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.envisioncn.envhybrid.demo"
+        },
+        "envision-plugin-shareddata": {
+            "PACKAGE_NAME": "com.envisioncn.envhybrid.demo"
+        },
+        "envision-plugin-shellrouter": {
+            "PACKAGE_NAME": "com.envisioncn.envhybrid.demo"
+        },
+        "envision-plugin-envcontext": {
+            "PACKAGE_NAME": "com.envisioncn.envhybrid.demo"
+        },
+        "envision-plugin-log": {
+            "PACKAGE_NAME": "com.envisioncn.envhybrid.demo"
+        }
+    },
+    "dependent_plugins": {}
+}

@@ -1,0 +1,22 @@
+{
+  "name": "envision-plugin-shareddata",
+  "version": "1.0.0",
+  "description": "ENVISION shareddata",
+  "cordova": {
+    "id": "envision-plugin-shareddata",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+
+  },
+  "keywords": [
+    "cordova",
+    "shareddata",
+    "cordova-android",
+    "cordova-ios",
+  ],
+  "license": "Apache 2.0"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "envision-plugin-envcontext",
+  "version": "1.0.0",
+  "description": "inject context variables (eg. server url) into window.navigator",
+  "cordova": {
+    "id": "envision-plugin-envcontext",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.3.0"
+    }
+  ],
+  "author": "zihan.chen",
+  "license": "Apache 2.0"
+}

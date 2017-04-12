@@ -1,5 +1,5 @@
 {
-  "name": "cordova-template",
+  "name": "envhybrid-template",
   "version": "1.0.0",
   "description": "A reference for creating cordova app templates.",
   "main": "index.js",
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/carynbear/cordova-template.git"
+    "url": ""
   },
-  "homepage": "https://github.com/carynbear/cordova-template",
+  "homepage": "h",
   "keywords": [
     "ecosystem:cordova",
     "cordova:template"
   ],
-  "author": "Caryn Tran",
+  "author": "",
   "license": "Apache-2.0"
 }
